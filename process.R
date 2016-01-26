@@ -40,6 +40,7 @@ names(ent_rec_conj) <- c("slug",
                         "tiene_plan",
                         "recursos",
                         "conjuntos")
+
 ent_rec_conj$tiene_inventario[ent_rec_conj$tiene_inventario == TRUE] <- "Si"
 ent_rec_conj$tiene_inventario[ent_rec_conj$tiene_inventario == FALSE] <- "No"
 ent_rec_conj$tiene_plan [ent_rec_conj$tiene_plan == TRUE] <- "Si"
@@ -48,3 +49,13 @@ ent_rec_conj$tiene_plan [ent_rec_conj$tiene_plan == FALSE] <- "No"
 write.csv(ent_rec_conj,
           "dataset_presidencia.csv",
           row.names = FALSE)
+
+
+final_data <- ent_rec_conj
+final_data <- final_data[,-1]
+final_data[,c(4,5)] <- final_data[,c(5,4)]
+names(final_data) <- c("Nombre de la dependencia",
+                      "¿Cuenta con Inventario de Datos?",
+                      "¿Cuenta con Plan de Apertura?",
+                      "Número de conjuntos de datos publicados",
+                      "Número de recursos de datos publicados")

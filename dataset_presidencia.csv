@@ -1,173 +1,173 @@
-"slug","dep","tiene_inventario","tiene_plan","recursos","conjuntos"
-"agroasemex","AGROASEMEX","Si","Si",7,7
-"aicm","AICM","Si","Si",2,2
-"api-atm","API-ATM","No","No",17,17
-"api-coa","API-COA","Si","Si",16,11
-"api-db","API-DB","Si","Si",14,6
-"api-ese","API-ESE","No","Si",6,3
-"api-gym","API-GYM","No","No",3,3
-"api-lzc","API-LZC","Si","Si",7,6
-"api-mzt","API-MZT","Si","Si",7,7
-"api-pch","API-PCH","Si","Si",2,2
-"api-scx","API-SCX","Si","Si",7,7
-"api-t","API-T","No","No",4,4
-"api-tam","API-TAM","Si","Si",14,14
-"api-tux","API-TUX","No","No",2,2
-"api-ver","API-VER","Si","Si",2,2
-"api-vsa","API-VSA","Si","Si",7,7
-"api-zlo","API-ZLO","Si","No",14,14
-"asa","Aeropuertos y Servicios Auxiliares","Si","Si",6,6
-"ase-chihuahua","ASE Chihuahua","Si","Si",7,7
-"ayuntamiento-de-ciudad-juarez","Ayuntamiento de Ciudad Juárez","No","No",7,7
-"ayuntamiento-de-minatitlan","Ayuntamiento de Minatitlán","Si","Si",18,18
-"ayuntamiento-de-puebla","Ayuntamiento de Puebla","Si","Si",83,83
-"ayuntamiento-de-reynosa","Ayuntamiento de Reynosa","Si","No",4,4
-"ayuntamiento-de-san-luis-potosi","Ayuntamiento de San Luis Potosí","No","No",6,3
-"ayuntamiento-de-san-pedro-garza-garcia","Ayuntamiento de San Pedro Garza García","No","No",14,2
-"ayuntamiento-de-torreon","Ayuntamiento de Torreón","Si","Si",11,11
-"ayuntamiento-de-veracruz","Ayuntamiento de Veracruz","Si","Si",7,6
-"ayuntamiento-de-xalapa","Ayuntamiento de Xalapa","No","No",70,16
-"ayuntamiento-de-zapopan","Ayuntamiento de Zapopan","No","No",20,6
-"bancomext","BANCOMEXT","Si","Si",6,3
-"banjercito","BANJERCITO","No","No",2,2
-"birmex","BIRMEX","Si","Si",6,6
-"canal-11","Canal 11","Si","Si",2,2
-"capufe","CAPUFE","No","No",5,5
-"cdi","CDI","Si","Si",15,9
-"cenapred","CENAPRED","No","No",14,14
-"centro-de-investigaciones-y-estudios-superiores-en-antropologia-social","Centro de Investigaciones y Estudios Superiores en Antropología Social","Si","Si",2,2
-"cfe","CFE","Si","Si",10,10
-"ciad","CIAD","Si","Si",23,5
-"ciatec","CIATEC","Si","Si",8,8
-"ciatej","CIATEJ","Si","Si",2,2
-"cibnor","CIBNOR","No","No",6,6
-"cicese","CICESE","Si","Si",7,7
-"cicy","CICY","Si","Si",2,2
-"cideteq","CIDETEQ","Si","Si",12,12
-"cimat","CIMAT","Si","No",44,44
-"cimav","CIMAV","Si","Si",4,4
-"cineteca-nacional","CINETECA NACIONAL","Si","Si",9,9
-"cio","CIO","Si","Si",2,2
-"cm","Correos de México","Si","Si",61,30
-"cmm","CMM","Si","Si",14,14
-"cnsf","CNSF","Si","Si",80,80
-"cofaa","COFAA","Si","Si",2,2
-"cofepris","COFEPRIS","Si","Si",7,7
-"colef","COLEF","Si","Si",2,2
-"colpos","COLPOS","Si","Si",4,4
-"colsan","COLSAN","Si","Si",7,5
-"conabio","CONABIO","No","Si",21,8
-"conacyt","CONACYT","No","No",11,11
-"conadesuca","CONADESUCA","Si","Si",9,5
-"conafor","CONAFOR","Si","Si",15,9
-"conagua","CONAGUA","Si","Si",63,51
-"conalep","CONALEP","No","No",3,3
-"conaliteg","CONALITEG","Si","No",8,8
-"conampros","CONAMPROS","Si","Si",11,11
-"conanp","CONANP","Si","Si",143,25
-"conapesca","CONAPESCA","No","Si",17,12
-"conapo","CONAPO","Si","Si",60,9
-"conapred","CONAPRED","Si","Si",5,5
-"conasami","CONASAMI","Si","Si",3,3
-"conavi","CONAVI","Si","Si",7,6
-"conaza","CONAZA","Si","Si",2,2
-"condusef","CONDUSEF","Si","Si",2,2
-"coneval","CONEVAL","Si","Si",46,21
-"conocer","CONOCER","Si","Si",2,2
-"consar","CONSAR","Si","No",2,2
-"conuee","CONUEE","No","No",2,2
-"corett","CORETT","No","No",6,6
-"crae","CRAE","Si","Si",11,9
-"cre","CRE","Si","Si",6,5
-"csaegro","CSAEGRO","Si","Si",2,2
-"diconsa","DICONSA","Si","Si",33,33
-"ech","ECH","Si","Si",6,6
-"elccc","ELCCC","Si","Si",3,3
-"estado-de-jalisco","Estado de Jalisco","No","No",10,10
-"estado-de-morelos","Estado de Morelos","No","No",3,2
-"estado-de-puebla","Estado de Puebla","No","No",12,12
-"estado-de-veracruz","Estado de Veracruz","Si","Si",58,37
-"fifonafe","FIFONAFE","No","No",4,4
-"fira","FIRA","Si","Si",5,5
-"firco","FIRCO","Si","Si",2,2
-"fnd","FND","Si","No",11,8
-"focir","FOCIR","No","No",4,4
-"fonacot","Instituto del Fondo Nacional para el Consumo de los Trabajadores","No","No",2,2
-"fonart","FONART","Si","Si",14,4
-"fondo-de-cultura-economica","Fondo de Cultura Económica","Si","Si",3,3
-"fonhapo","FONHAPO","Si","Si",14,14
-"hggea","HGGEA","Si","Si",3,3
-"himfg","HIMFG","Si","Si",7,7
-"hraeb","HRAEB","Si","Si",25,25
-"hraeo","HRAEO","Si","Si",2,2
-"iepsa","IEPSA","No","Si",13,6
-"ift","ift","No","No",3,1
-"iie","IIE","Si","Si",6,6
-"im","Instituto Mora","Si","Si",21,21
-"imjuve","IMJUVE","Si","No",13,13
-"imp","IMP","No","No",4,4
-"imss","IMSS","Si","Si",303,10
-"imt","imt","Si","Si",10,10
-"imta","IMTA","No","No",1,1
-"inacipe","INACIPE","Si","Si",3,3
-"inah","INAH","Si","Si",4,3
-"inali","INALI","Si","Si",10,4
-"inapam","INAPAM","Si","Si",4,4
-"inapesca","INAPESCA","Si","Si",7,7
-"inba","INBA","Si","Si",9,9
-"inc","INC","No","No",1,1
-"incan","INCAN","Si","Si",14,14
-"inea","INEA","Si","Si",16,16
-"inecc","INECC","Si","Si",1042,9
-"inecol","INECOL","Si","Si",15,9
-"inegi","INEGI","No","No",1687,75
-"infotec","INFOTEC","No","No",21,11
-"inifap","INIFAP","Si","Si",2,2
-"inifed","INIFED","Si","Si",3,3
-"inmujeres","INMUJERES","No","No",7,1
-"insp","INSP","Si","Si",110,12
-"ipab","IPAB","Si","Si",50,14
-"ipicyt","IPICYT","Si","Si",5,5
-"ipn","IPN","Si","Si",17,17
-"issfam","ISSFAM","Si","Si",10,10
-"issste","ISSSTE","Si","Si",19,19
-"lotenal","LOTENAL","Si","Si",9,9
-"nafin","NAFIN","Si","Si",10,5
-"notimex","Notimex","No","No",20,20
-"pemex","PEMEX","No","Si",51,49
-"pgr","PGR","Si","Si",44,42
-"presidencia","Presidencia","Si","Si",1671,38
-"procuraduria-agraria","Procuraduría Agraria","Si","Si",4,4
-"prodecon","PRODECON","Si","Si",42,42
-"profedet","PROFEDET","Si","Si",12,12
-"profepa","Procuraduría Federal de Protección al Ambiente","Si","Si",17,14
-"promexico","ProMéxico","No","No",8,8
-"pronabive","PRONABIVE","Si","Si",2,2
-"prospera","PROSPERA","Si","Si",92,6
-"ran","RAN","Si","Si",134,10
-"sae","SAE","Si","Si",7,7
-"sagarpa","SAGARPA","Si","Si",129,39
-"salud","SALUD","No","No",58,14
-"sat","SAT","Si","Si",62,14
-"sct","SCT","Si","Si",60,9
-"se","SE","No","No",172,37
-"sectur","SECTUR","No","No",19,18
-"sedatu","SEDATU","Si","Si",30,5
-"sedena","SEDENA","Si","No",37,18
-"sedesol","SEDESOL","No","Si",804,138
-"segob","SEGOB","Si","Si",104,89
-"seguro-popular","Seguro Popular","Si","Si",5,5
-"semarnat","SEMARNAT","Si","Si",120,13
-"senasica","SENASICA","Si","Si",37,37
-"sener","Secretaría de Energía","Si","Si",154,110
-"sep","SEP","Si","Si",125,13
-"servicio-geologico-mexicano","Servicio Geológico Mexicano","Si","Si",45,7
-"sesnsp","SESNSP","No","Si",15,15
-"sfp","SFP","Si","No",30,30
-"shcp","SHCP","Si","Si",59,10
-"shf","SHF","No","No",1,1
-"sndif","SNDIF","Si","Si",12,6
-"snics","SNICS","No","No",3,2
-"spr","Sistema Público de Radiofusión del Estado Mexicano","Si","Si",12,12
-"stps","STPS","No","No",34,22
-"telecomm","Telecomm","Si","Si",7,7
+"Nombre de la dependencia","¿Cuenta con Inventario de Datos?","¿Cuenta con Plan de Apertura?","Número de conjuntos de datos publicados","Número de recursos de datos publicados"
+"AGROASEMEX","Si","Si",7,7
+"AICM","Si","Si",2,2
+"API-ATM","No","No",17,17
+"API-COA","Si","Si",11,16
+"API-DB","Si","Si",6,14
+"API-ESE","No","Si",3,6
+"API-GYM","No","No",3,3
+"API-LZC","Si","Si",6,7
+"API-MZT","Si","Si",7,7
+"API-PCH","Si","Si",2,2
+"API-SCX","Si","Si",7,7
+"API-T","No","No",4,4
+"API-TAM","Si","Si",14,14
+"API-TUX","No","No",2,2
+"API-VER","Si","Si",2,2
+"API-VSA","Si","Si",7,7
+"API-ZLO","Si","No",14,14
+"Aeropuertos y Servicios Auxiliares","Si","Si",6,6
+"ASE Chihuahua","Si","Si",7,7
+"Ayuntamiento de Ciudad Juárez","No","No",7,7
+"Ayuntamiento de Minatitlán","Si","Si",18,18
+"Ayuntamiento de Puebla","Si","Si",83,83
+"Ayuntamiento de Reynosa","Si","No",4,4
+"Ayuntamiento de San Luis Potosí","No","No",3,6
+"Ayuntamiento de San Pedro Garza García","No","No",2,14
+"Ayuntamiento de Torreón","Si","Si",11,11
+"Ayuntamiento de Veracruz","Si","Si",6,7
+"Ayuntamiento de Xalapa","No","No",16,70
+"Ayuntamiento de Zapopan","No","No",6,20
+"BANCOMEXT","Si","Si",3,6
+"BANJERCITO","No","No",2,2
+"BIRMEX","Si","Si",6,6
+"Canal 11","Si","Si",2,2
+"CAPUFE","No","No",5,5
+"CDI","Si","Si",9,15
+"CENAPRED","No","No",14,14
+"Centro de Investigaciones y Estudios Superiores en Antropología Social","Si","Si",2,2
+"CFE","Si","Si",10,10
+"CIAD","Si","Si",5,23
+"CIATEC","Si","Si",8,8
+"CIATEJ","Si","Si",2,2
+"CIBNOR","No","No",6,6
+"CICESE","Si","Si",7,7
+"CICY","Si","Si",2,2
+"CIDETEQ","Si","Si",12,12
+"CIMAT","Si","No",44,44
+"CIMAV","Si","Si",4,4
+"CINETECA NACIONAL","Si","Si",9,9
+"CIO","Si","Si",2,2
+"Correos de México","Si","Si",30,61
+"CMM","Si","Si",14,14
+"CNSF","Si","Si",80,80
+"COFAA","Si","Si",2,2
+"COFEPRIS","Si","Si",7,7
+"COLEF","Si","Si",2,2
+"COLPOS","Si","Si",4,4
+"COLSAN","Si","Si",5,7
+"CONABIO","No","Si",8,21
+"CONACYT","No","No",11,11
+"CONADESUCA","Si","Si",5,9
+"CONAFOR","Si","Si",9,15
+"CONAGUA","Si","Si",51,63
+"CONALEP","No","No",3,3
+"CONALITEG","Si","No",8,8
+"CONAMPROS","Si","Si",11,11
+"CONANP","Si","Si",25,143
+"CONAPESCA","No","Si",12,17
+"CONAPO","Si","Si",9,60
+"CONAPRED","Si","Si",5,5
+"CONASAMI","Si","Si",3,3
+"CONAVI","Si","Si",6,7
+"CONAZA","Si","Si",2,2
+"CONDUSEF","Si","Si",2,2
+"CONEVAL","Si","Si",21,46
+"CONOCER","Si","Si",2,2
+"CONSAR","Si","No",2,2
+"CONUEE","No","No",2,2
+"CORETT","No","No",6,6
+"CRAE","Si","Si",9,11
+"CRE","Si","Si",5,6
+"CSAEGRO","Si","Si",2,2
+"DICONSA","Si","Si",33,33
+"ECH","Si","Si",6,6
+"ELCCC","Si","Si",3,3
+"Estado de Jalisco","No","No",10,10
+"Estado de Morelos","No","No",2,3
+"Estado de Puebla","No","No",12,12
+"Estado de Veracruz","Si","Si",37,58
+"FIFONAFE","No","No",4,4
+"FIRA","Si","Si",5,5
+"FIRCO","Si","Si",2,2
+"FND","Si","No",8,11
+"FOCIR","No","No",4,4
+"Instituto del Fondo Nacional para el Consumo de los Trabajadores","No","No",2,2
+"FONART","Si","Si",4,14
+"Fondo de Cultura Económica","Si","Si",3,3
+"FONHAPO","Si","Si",14,14
+"HGGEA","Si","Si",3,3
+"HIMFG","Si","Si",7,7
+"HRAEB","Si","Si",25,25
+"HRAEO","Si","Si",2,2
+"IEPSA","No","Si",6,13
+"ift","No","No",1,3
+"IIE","Si","Si",6,6
+"Instituto Mora","Si","Si",21,21
+"IMJUVE","Si","No",13,13
+"IMP","No","No",4,4
+"IMSS","Si","Si",10,303
+"imt","Si","Si",10,10
+"IMTA","No","No",1,1
+"INACIPE","Si","Si",3,3
+"INAH","Si","Si",3,4
+"INALI","Si","Si",4,10
+"INAPAM","Si","Si",4,4
+"INAPESCA","Si","Si",7,7
+"INBA","Si","Si",9,9
+"INC","No","No",1,1
+"INCAN","Si","Si",14,14
+"INEA","Si","Si",16,16
+"INECC","Si","Si",9,1042
+"INECOL","Si","Si",9,15
+"INEGI","No","No",75,1687
+"INFOTEC","No","No",11,21
+"INIFAP","Si","Si",2,2
+"INIFED","Si","Si",3,3
+"INMUJERES","No","No",1,7
+"INSP","Si","Si",12,110
+"IPAB","Si","Si",14,50
+"IPICYT","Si","Si",5,5
+"IPN","Si","Si",17,17
+"ISSFAM","Si","Si",10,10
+"ISSSTE","Si","Si",19,19
+"LOTENAL","Si","Si",9,9
+"NAFIN","Si","Si",5,10
+"Notimex","No","No",20,20
+"PEMEX","No","Si",49,51
+"PGR","Si","Si",42,44
+"Presidencia","Si","Si",38,1671
+"Procuraduría Agraria","Si","Si",4,4
+"PRODECON","Si","Si",42,42
+"PROFEDET","Si","Si",12,12
+"Procuraduría Federal de Protección al Ambiente","Si","Si",14,17
+"ProMéxico","No","No",8,8
+"PRONABIVE","Si","Si",2,2
+"PROSPERA","Si","Si",6,92
+"RAN","Si","Si",10,134
+"SAE","Si","Si",7,7
+"SAGARPA","Si","Si",39,129
+"SALUD","No","No",14,58
+"SAT","Si","Si",14,62
+"SCT","Si","Si",9,60
+"SE","No","No",37,172
+"SECTUR","No","No",18,19
+"SEDATU","Si","Si",5,30
+"SEDENA","Si","No",18,37
+"SEDESOL","No","Si",138,804
+"SEGOB","Si","Si",89,104
+"Seguro Popular","Si","Si",5,5
+"SEMARNAT","Si","Si",13,120
+"SENASICA","Si","Si",37,37
+"Secretaría de Energía","Si","Si",110,154
+"SEP","Si","Si",13,125
+"Servicio Geológico Mexicano","Si","Si",7,45
+"SESNSP","No","Si",15,15
+"SFP","Si","No",30,30
+"SHCP","Si","Si",10,59
+"SHF","No","No",1,1
+"SNDIF","Si","Si",6,12
+"SNICS","No","No",2,3
+"Sistema Público de Radiofusión del Estado Mexicano","Si","Si",12,12
+"STPS","No","No",22,34
+"Telecomm","Si","Si",7,7
