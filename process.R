@@ -29,11 +29,11 @@ conj.f  <-  conj[, .N, by = "slug"]
 ######
 ## Put it all together
 ######
-entities <- data.frame(apply(mat[,c(1,2)],2,unique))
+entities            <- data.frame(apply(mat[,c(1,2)], 2, unique))
 entities$tiene_inv  <- entities$slug %in% invent$inst_slut
 entities$tiene_plan <- entities$slug %in% plans$inst_slut
-ent_rec <- merge(entities, rec, by = "slug")
-ent_rec_conj <- merge(ent_rec, conj.f, by = "slug")
+ent_rec             <- merge(entities, rec, by = "slug")
+ent_rec_conj        <- merge(ent_rec, conj.f, by = "slug")
 names(ent_rec_conj) <- c("slug",
                         "dep",
                         "tiene_inventario",
@@ -59,3 +59,12 @@ names(final_data) <- c("Nombre de la dependencia",
                       "¿Cuenta con Plan de Apertura?",
                       "Número de conjuntos de datos publicados",
                       "Número de recursos de datos publicados")
+
+final_data <- read.csv("dataset_presidencia.csv",
+                      stringsAsFactors  = FALSE)
+
+new_data  <- data.frame("dep" = c("AGN","CENSIDA","PF"), "inv" = rep("Si", 3), "plan" = rep("Si", 3), "conj" = rep(0,3), "rec" = rep(0,3))
+names(new_data) <- names(final_data)
+final_data <- rbind(final_data, new_data)
+
+write.csv(final_data, "dataset_presidencia.csv", row.names = FALSE)
