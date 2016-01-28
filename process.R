@@ -107,4 +107,4 @@ write.csv(final_data,
           "dataset_presidencia.csv",
           row.names = FALSE)
 
-system("rm dependencies.txt MAT.csv plans.csv inventarios.csv")
+system("rm dependencies.txt MAT.csv plans.csv inventarios.csv filter_data.csv")
