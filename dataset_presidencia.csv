@@ -1,5 +1,5 @@
 "Nombre de la dependencia","¿Cuenta con Inventario de Datos?","¿Cuenta con Plan de Apertura?","Número de conjuntos de datos publicados","Número de recursos de datos publicados","Última fecha de actualización"
-"AGROASEMEX","No","No",7,7,2015-11-27
+"AGROASEMEX","No","No",14,14,2016-01-29
 "AICM","No","No",2,2,2015-10-27
 "API-ATM","No","No",17,17,2015-11-09
 "API-COA","No","No",11,16,2015-11-27
@@ -19,7 +19,7 @@
 "Aeropuertos y Servicios Auxiliares","No","No",6,6,2016-01-19
 "ASE Chihuahua","No","No",7,7,2015-11-24
 "Ayuntamiento de Ciudad Juárez","No","No",7,7,2015-10-23
-"Ayuntamiento de Minatitlán","No","No",18,18,2015-11-07
+"Ayuntamiento de Minatitlán","No","No",16,16,2015-11-07
 "Ayuntamiento de Puebla","No","No",83,83,2015-11-18
 "Ayuntamiento de Reynosa","No","No",4,4,2016-01-15
 "Ayuntamiento de San Luis Potosí","No","No",3,6,2015-10-01
@@ -39,9 +39,9 @@
 "Centro de Investigaciones y Estudios Superiores en Antropología Social","No","No",2,2,2015-10-27
 "CFE","No","No",10,10,2016-01-19
 "CIAD","No","No",5,23,2015-11-27
-"CIATEC","No","No",8,8,2015-12-15
+"CIATEC","No","No",7,7,2015-12-15
 "CIATEJ","No","No",2,2,2015-11-05
-"CIBNOR","No","No",6,6,2016-01-18
+"CIBNOR","No","No",8,12,2016-02-03
 "CICESE","No","No",7,7,2015-10-28
 "CICY","No","No",2,2,2015-11-26
 "CIDETEQ","No","No",12,12,2015-11-25
@@ -61,7 +61,7 @@
 "CONACYT","No","No",11,11,2015-10-28
 "CONADESUCA","No","No",5,9,2016-01-21
 "CONAFOR","No","No",9,15,2015-12-17
-"CONAGUA","No","No",55,67,2016-01-28
+"CONAGUA","No","No",55,67,2016-02-03
 "CONALEP","No","No",3,3,2016-01-15
 "CONALITEG","No","No",8,8,2015-12-11
 "CONAMPROS","No","No",11,11,2015-12-01
@@ -72,19 +72,19 @@
 "CONASAMI","No","No",3,4,2016-01-27
 "CONAVI","No","No",6,7,2016-01-28
 "CONAZA","No","No",2,2,2016-01-11
-"CONDUSEF","No","No",2,2,2015-10-27
-"CONEVAL","No","No",21,46,2016-01-22
+"CONDUSEF","No","No",4,4,2016-01-29
+"CONEVAL","No","No",23,96,2016-02-03
 "CONOCER","No","No",2,2,2015-10-27
 "CONSAR","No","No",2,2,2015-10-28
 "CONUEE","No","No",2,2,2015-11-26
 "CORETT","No","No",6,6,2016-01-14
 "CRAE","No","No",9,11,2015-12-01
-"CRE","No","No",5,6,2015-12-31
+"CRE","No","No",15,16,2016-02-02
 "CSAEGRO","No","No",2,2,2015-12-22
 "DICONSA","No","No",33,33,2015-12-14
 "ECH","No","No",6,6,2016-01-13
 "ELCCC","No","No",3,3,2015-10-29
-"Estado de Jalisco","No","No",10,10,2015-01-27
+"Estado de Jalisco","No","No",85,154,2016-01-31
 "Estado de Morelos","No","No",2,3,2015-10-01
 "Estado de Puebla","No","No",12,12,2015-10-01
 "Estado de Veracruz","No","No",37,58,2015-11-27
@@ -97,7 +97,7 @@
 "FONART","No","No",4,14,2015-11-20
 "Fondo de Cultura Económica","No","No",2,2,2015-10-01
 "FONHAPO","No","No",14,14,2016-01-16
-"HGGEA","No","No",3,3,2015-12-07
+"HGGEA","No","No",4,4,2016-02-03
 "HIMFG","No","No",7,7,2015-11-26
 "HRAEB","No","No",25,25,2015-12-16
 "HRAEO","No","No",2,2,2015-12-24
@@ -118,7 +118,7 @@
 "INBA","No","No",9,9,2016-01-19
 "INC","No","No",1,1,2015-10-26
 "INCAN","No","No",13,13,2016-01-15
-"INEA","No","No",18,18,2016-01-27
+"INEA","No","No",19,19,2016-01-30
 "INECC","No","No",9,1042,2015-12-29
 "INECOL","No","No",9,15,2015-11-12
 "INEGI","No","No",75,1687,2015-10-24
@@ -134,7 +134,7 @@
 "ISSSTE","No","No",19,19,2015-12-09
 "LOTENAL","No","No",9,9,2015-12-22
 "NAFIN","No","No",5,10,2016-01-25
-"Notimex","No","No",20,20,2016-01-21
+"Notimex","No","No",20,20,2016-01-29
 "PEMEX","No","No",49,51,2016-01-19
 "PGR","No","No",42,44,2015-10-27
 "Presidencia","No","No",38,1671,2016-01-14
@@ -142,16 +142,16 @@
 "PRODECON","No","No",42,42,2015-12-03
 "PROFEDET","No","No",12,12,2015-12-17
 "Procuraduría Federal de Protección al Ambiente","No","No",14,17,2016-01-23
-"ProMéxico","No","No",27,31,2016-01-28
+"ProMéxico","No","No",26,30,2016-01-28
 "PRONABIVE","No","No",2,2,2015-10-27
 "PROSPERA","No","No",6,92,2015-12-22
 "RAN","No","No",12,136,2016-01-27
 "SAE","No","No",7,7,2015-10-27
-"SAGARPA","No","No",39,129,2015-12-08
+"SAGARPA","No","No",58,232,2016-01-29
 "SALUD","No","No",14,58,2016-01-12
 "SAT","No","No",14,62,2015-12-03
-"SCT","No","No",9,60,2016-01-06
-"SE","No","No",37,172,2016-01-21
+"SCT","No","No",10,68,2016-02-02
+"SE","No","No",37,173,2016-01-29
 "SECTUR","No","No",18,19,2015-12-15
 "SEDATU","No","No",5,30,2015-11-09
 "SEDENA","No","No",18,37,2016-01-15
@@ -159,7 +159,7 @@
 "SEGOB","No","No",89,104,2015-12-11
 "Seguro Popular","No","No",5,5,2015-12-17
 "SEMARNAT","No","No",13,120,2016-01-15
-"SENASICA","No","No",37,37,2015-12-03
+"SENASICA","No","No",54,54,2016-01-29
 "Secretaría de Energía","No","No",110,154,2015-12-18
 "SEP","No","No",13,125,2015-12-11
 "Servicio Geológico Mexicano","No","No",7,45,2015-12-16
@@ -167,10 +167,11 @@
 "SFP","No","No",30,30,2015-12-11
 "SHCP","No","No",10,59,2015-11-26
 "SHF","No","No",1,1,2015-10-27
-"SNDIF","No","No",6,12,2016-01-18
+"SNDIF","No","No",6,16,2016-01-29
 "SNICS","No","No",2,3,2015-10-27
 "Sistema Público de Radiofusión del Estado Mexicano","No","No",12,12,2015-12-01
-"STPS","No","No",22,34,2015-12-11
+"SRE","No","No",40,40,2016-02-03
+"STPS","No","No",23,35,2016-02-03
 "Telecomm","No","No",7,7,2015-10-29
 "AGN","Si","Si",0,0,NA
 "CENSIDA","Si","Si",0,0,NA

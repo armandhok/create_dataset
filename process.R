@@ -82,6 +82,8 @@ ent_rec_conj$tiene_plan[
 ent_rec_conj$tiene_plan[
     ent_rec_conj$tiene_plan == FALSE] <- "No"
 
+write.csv(ent_rec_conj, "dirty_adela.csv", row.names = FALSE)
+
 final_data <- ent_rec_conj
 final_data <- final_data[,-1]
 final_data[,c(4,5)] <- final_data[,c(5,4)]
