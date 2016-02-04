@@ -19,7 +19,7 @@
 "asa","Aeropuertos y Servicios Auxiliares","Si","Si",6,6,2016-01-19
 "ase-chihuahua","ASE Chihuahua","Si","Si",7,7,2015-11-24
 "ayuntamiento-de-ciudad-juarez","Ayuntamiento de Ciudad Juárez","No","No",7,7,2015-10-23
-"ayuntamiento-de-minatitlan","Ayuntamiento de Minatitlán","Si","Si",16,16,2015-11-07
+"ayuntamiento-de-minatitlan","Ayuntamiento de Minatitlán","No","No",16,16,2015-11-07
 "ayuntamiento-de-puebla","Ayuntamiento de Puebla","Si","Si",83,83,2015-11-18
 "ayuntamiento-de-reynosa","Ayuntamiento de Reynosa","Si","No",4,4,2016-01-15
 "ayuntamiento-de-san-luis-potosi","Ayuntamiento de San Luis Potosí","No","No",6,3,2015-10-01
@@ -33,7 +33,7 @@
 "birmex","BIRMEX","Si","Si",6,6,2015-10-27
 "canal-11","Canal 11","Si","Si",2,2,2015-10-30
 "capufe","CAPUFE","No","No",5,5,2015-11-23
-"cdi","CDI","Si","Si",15,9,2015-12-02
+"cdi","CDI","No","No",15,9,2015-12-02
 "cenapred","CENAPRED","No","No",14,14,2015-10-27
 "cenatra","CENATRA","Si","Si",4,4,2016-01-28
 "centro-de-investigaciones-y-estudios-superiores-en-antropologia-social","Centro de Investigaciones y Estudios Superiores en Antropología Social","Si","Si",2,2,2015-10-27
@@ -54,7 +54,7 @@
 "cnsf","CNSF","Si","Si",80,80,2015-12-03
 "cofaa","COFAA","Si","Si",2,2,2015-10-28
 "cofepris","COFEPRIS","Si","Si",7,7,2016-01-18
-"colef","COLEF","Si","Si",2,2,2015-10-27
+"colef","COLEF","No","No",2,2,2015-10-27
 "colpos","COLPOS","Si","Si",4,4,2015-10-27
 "colsan","COLSAN","Si","Si",7,5,2015-10-27
 "conabio","CONABIO","No","Si",21,8,2016-01-21
@@ -75,7 +75,7 @@
 "condusef","CONDUSEF","Si","Si",4,4,2016-01-29
 "coneval","CONEVAL","Si","Si",96,23,2016-02-03
 "conocer","CONOCER","Si","Si",2,2,2015-10-27
-"consar","CONSAR","Si","No",2,2,2015-10-28
+"consar","CONSAR","No","No",2,2,2015-10-28
 "conuee","CONUEE","No","No",2,2,2015-11-26
 "corett","CORETT","No","No",6,6,2016-01-14
 "crae","CRAE","Si","Si",11,9,2015-12-01
@@ -96,14 +96,14 @@
 "fonacot","Instituto del Fondo Nacional para el Consumo de los Trabajadores","No","No",2,2,2015-11-05
 "fonart","FONART","Si","Si",14,4,2015-11-20
 "fondo-de-cultura-economica","Fondo de Cultura Económica","Si","Si",2,2,2015-10-01
-"fonhapo","FONHAPO","Si","Si",14,14,2016-01-16
-"hggea","HGGEA","Si","Si",4,4,2016-02-03
+"fonhapo","FONHAPO","No","No",14,14,2016-01-16
+"hggea","HGGEA","Si","Si",5,5,2016-02-04
 "himfg","HIMFG","Si","Si",7,7,2015-11-26
 "hraeb","HRAEB","Si","Si",25,25,2015-12-16
-"hraeo","HRAEO","Si","Si",2,2,2015-12-24
+"hraeo","HRAEO","No","No",2,2,2015-12-24
 "iepsa","IEPSA","No","Si",13,6,2016-01-14
 "ift","ift","No","No",3,1,2015-10-01
-"iie","IIE","Si","Si",6,6,2015-11-27
+"iie","IIE","Si","No",6,6,2015-11-27
 "im","Instituto Mora","Si","Si",20,20,2015-12-15
 "imjuve","IMJUVE","Si","No",13,13,2016-01-18
 "imp","IMP","No","No",4,4,2015-10-26
@@ -114,7 +114,7 @@
 "inah","INAH","Si","Si",4,3,2015-10-28
 "inali","INALI","Si","Si",10,4,2015-12-08
 "inapam","INAPAM","Si","Si",4,4,2015-11-05
-"inapesca","INAPESCA","Si","Si",7,7,2015-11-12
+"inapesca","INAPESCA","No","No",7,7,2015-11-12
 "inba","INBA","Si","Si",9,9,2016-01-19
 "inc","INC","No","No",1,1,2015-10-26
 "incan","INCAN","Si","Si",13,13,2016-01-15
@@ -146,9 +146,9 @@
 "pronabive","PRONABIVE","Si","Si",2,2,2015-10-27
 "prospera","PROSPERA","Si","Si",92,6,2015-12-22
 "ran","RAN","Si","Si",136,12,2016-01-27
-"sae","SAE","Si","Si",7,7,2015-10-27
+"sae","SAE","Si","Si",8,8,2016-02-04
 "sagarpa","SAGARPA","Si","Si",232,58,2016-01-29
-"salud","SALUD","No","No",58,14,2016-01-12
+"salud","SALUD","No","Si",59,15,2016-02-04
 "sat","SAT","Si","Si",62,14,2015-12-03
 "sct","SCT","Si","Si",68,10,2016-02-02
 "se","SE","No","No",173,37,2016-01-29

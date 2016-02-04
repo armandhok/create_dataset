@@ -26,6 +26,7 @@ plans  <- read.csv("plans.csv",
 ###################################
 ## Filter data
 ###################################
+all    <- mat
 mat    <- dplyr::filter(mat, !is.na(slug))
 mat.dc <- data.table(mat)
 
@@ -55,7 +56,7 @@ ent_rec_conj        <- merge(ent_rec, conj.f, by = "slug")
 names(ent_rec_conj) <- c("slug",
                         "dep",
                         "tiene_inventario",
-n                        "tiene_plan",
+                        "tiene_plan",
                         "recursos",
                         "conjuntos")
 ent_rec_conj <- merge(ent_rec_conj, dates, by = "slug")
@@ -117,7 +118,7 @@ data_summ <- data.frame("Concepto" = c(
                            "Conjuntos de datos publicados",
                            "Dependencias publicando"
                        ), "Total" = c(
-                              nrow(mat),
+                              nrow(all),
                               sum(ent_rec_conj$conjuntos),
                               nrow(final_data)
                           ))
