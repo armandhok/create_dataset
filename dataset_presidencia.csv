@@ -1,0 +1,178 @@
+"Nombre de la dependencia","¿Cuenta con Inventario de Datos?","¿Cuenta con Plan de Apertura?","Número de conjuntos de datos publicados","Número de recursos de datos publicados","Última fecha de actualización"
+"AGROASEMEX","Si","Si",14,14,2016-01-29
+"AICM","Si","Si",2,2,2015-10-27
+"API-ATM","No","No",17,17,2015-11-09
+"API-COA","Si","Si",11,16,2015-11-27
+"API-DB","Si","Si",6,14,2015-10-28
+"API-ESE","No","Si",3,6,2016-01-14
+"API-GYM","No","No",3,3,2015-10-27
+"API-LZC","Si","Si",6,7,2015-10-27
+"API-MZT","Si","Si",7,7,2015-10-31
+"API-PCH","Si","Si",2,2,2015-12-18
+"API-SCX","Si","Si",7,7,2015-11-06
+"API-T","No","No",4,4,2016-01-08
+"API-TAM","Si","Si",14,14,2015-10-27
+"API-TUX","No","No",2,2,2015-12-19
+"API-VER","Si","Si",2,2,2015-10-30
+"API-VSA","Si","Si",7,7,2015-10-27
+"API-ZLO","Si","No",14,14,2016-01-01
+"Aeropuertos y Servicios Auxiliares","Si","Si",6,6,2016-01-19
+"ASE Chihuahua","Si","Si",7,7,2015-11-24
+"Ayuntamiento de Ciudad Juárez","No","No",7,7,2015-10-23
+"Ayuntamiento de Minatitlán","Si","Si",16,16,2015-11-07
+"Ayuntamiento de Puebla","Si","Si",83,83,2015-11-18
+"Ayuntamiento de Reynosa","Si","No",4,4,2016-01-15
+"Ayuntamiento de San Luis Potosí","No","No",3,6,2015-10-01
+"Ayuntamiento de San Pedro Garza García","No","No",2,14,2015-10-01
+"Ayuntamiento de Torreón","Si","Si",11,11,2015-12-02
+"Ayuntamiento de Veracruz","Si","Si",6,7,2015-12-15
+"Ayuntamiento de Xalapa","Si","Si",16,70,2016-01-28
+"Ayuntamiento de Zapopan","No","No",6,20,2015-10-01
+"BANCOMEXT","Si","Si",3,6,2015-10-28
+"BANJERCITO","No","No",2,2,2015-10-24
+"BIRMEX","Si","Si",6,6,2015-10-27
+"Canal 11","Si","Si",2,2,2015-10-30
+"CAPUFE","No","No",5,5,2015-11-23
+"CDI","Si","Si",9,15,2015-12-02
+"CENAPRED","No","No",14,14,2015-10-27
+"CENATRA","Si","Si",4,4,2016-01-28
+"Centro de Investigaciones y Estudios Superiores en Antropología Social","Si","Si",2,2,2015-10-27
+"CFE","Si","Si",10,10,2016-01-19
+"CIAD","Si","Si",5,23,2015-11-27
+"CIATEC","Si","Si",7,7,2015-12-15
+"CIATEJ","Si","Si",2,2,2015-11-05
+"CIBNOR","Si","Si",8,12,2016-02-03
+"CICESE","Si","Si",7,7,2015-10-28
+"CICY","Si","Si",2,2,2015-11-26
+"CIDETEQ","Si","Si",12,12,2015-11-25
+"CIMAT","Si","No",44,44,2015-10-28
+"CIMAV","Si","Si",4,4,2015-11-28
+"CINETECA NACIONAL","Si","Si",9,9,2015-10-27
+"CIO","Si","Si",2,2,2015-10-28
+"Correos de México","Si","Si",30,61,2015-11-26
+"CMM","Si","Si",14,14,2016-01-18
+"CNSF","Si","Si",80,80,2015-12-03
+"COFAA","Si","Si",2,2,2015-10-28
+"COFEPRIS","Si","Si",7,7,2016-01-18
+"COLEF","Si","Si",2,2,2015-10-27
+"COLPOS","Si","Si",4,4,2015-10-27
+"COLSAN","Si","Si",5,7,2015-10-27
+"CONABIO","No","Si",8,21,2016-01-21
+"CONACYT","No","No",11,11,2015-10-28
+"CONADESUCA","Si","Si",5,9,2016-01-21
+"CONAFOR","Si","Si",9,15,2015-12-17
+"CONAGUA","Si","Si",55,67,2016-02-03
+"CONALEP","No","No",3,3,2016-01-15
+"CONALITEG","Si","No",8,8,2015-12-11
+"CONAMPROS","Si","Si",11,11,2015-12-01
+"CONANP","Si","Si",25,143,2015-11-23
+"CONAPESCA","No","Si",12,17,2015-11-26
+"CONAPO","Si","Si",9,60,2016-01-13
+"CONAPRED","Si","Si",5,5,2015-12-09
+"CONASAMI","Si","No",3,4,2016-01-27
+"CONAVI","Si","Si",6,7,2016-01-28
+"CONAZA","Si","Si",2,2,2016-01-11
+"CONDUSEF","Si","Si",4,4,2016-01-29
+"CONEVAL","Si","Si",23,96,2016-02-03
+"CONOCER","Si","Si",2,2,2015-10-27
+"CONSAR","Si","No",2,2,2015-10-28
+"CONUEE","No","No",2,2,2015-11-26
+"CORETT","No","No",6,6,2016-01-14
+"CRAE","Si","Si",9,11,2015-12-01
+"CRE","Si","Si",15,16,2016-02-02
+"CSAEGRO","Si","Si",2,2,2015-12-22
+"DICONSA","Si","Si",33,33,2015-12-14
+"ECH","Si","Si",6,6,2016-01-13
+"ELCCC","Si","Si",3,3,2015-10-29
+"Estado de Jalisco","Si","Si",85,154,2016-01-31
+"Estado de Morelos","No","No",2,3,2015-10-01
+"Estado de Puebla","No","No",12,12,2015-10-01
+"Estado de Veracruz","Si","Si",37,58,2015-11-27
+"FIFONAFE","No","No",4,4,2015-10-28
+"FIRA","Si","Si",5,5,2016-01-27
+"FIRCO","Si","Si",2,2,2015-10-28
+"FND","Si","Si",8,11,2016-01-26
+"FOCIR","No","No",4,4,2015-10-28
+"Instituto del Fondo Nacional para el Consumo de los Trabajadores","No","No",2,2,2015-11-05
+"FONART","Si","Si",4,14,2015-11-20
+"Fondo de Cultura Económica","Si","Si",2,2,2015-10-01
+"FONHAPO","Si","Si",14,14,2016-01-16
+"HGGEA","Si","Si",4,4,2016-02-03
+"HIMFG","Si","Si",7,7,2015-11-26
+"HRAEB","Si","Si",25,25,2015-12-16
+"HRAEO","Si","Si",2,2,2015-12-24
+"IEPSA","No","Si",6,13,2016-01-14
+"ift","No","No",1,3,2015-10-01
+"IIE","Si","Si",6,6,2015-11-27
+"Instituto Mora","Si","Si",20,20,2015-12-15
+"IMJUVE","Si","No",13,13,2016-01-18
+"IMP","No","No",4,4,2015-10-26
+"IMSS","Si","Si",10,303,2016-01-14
+"imt","Si","Si",10,10,2016-01-27
+"IMTA","No","No",1,1,2015-12-16
+"INACIPE","Si","Si",3,3,2016-01-05
+"INAH","Si","Si",3,4,2015-10-28
+"INALI","Si","Si",4,10,2015-12-08
+"INAPAM","Si","Si",4,4,2015-11-05
+"INAPESCA","Si","Si",7,7,2015-11-12
+"INBA","Si","Si",9,9,2016-01-19
+"INC","No","No",1,1,2015-10-26
+"INCAN","Si","Si",13,13,2016-01-15
+"INEA","Si","Si",19,19,2016-01-30
+"INECC","Si","Si",9,1042,2015-12-29
+"INECOL","Si","Si",9,15,2015-11-12
+"INEGI","No","No",75,1687,2015-10-24
+"INFOTEC","No","No",11,21,2016-01-11
+"INIFAP","Si","Si",2,2,2016-01-12
+"INIFED","Si","Si",3,3,2015-11-09
+"INMUJERES","No","No",1,7,2015-09-28
+"INSP","Si","Si",12,110,2015-12-17
+"IPAB","Si","Si",14,50,2015-12-18
+"IPICYT","Si","Si",5,5,2016-01-15
+"IPN","Si","Si",17,17,2015-11-03
+"ISSFAM","Si","Si",10,10,2015-12-23
+"ISSSTE","Si","Si",19,19,2015-12-09
+"LOTENAL","Si","Si",9,9,2015-12-22
+"NAFIN","Si","Si",5,10,2016-01-25
+"Notimex","No","No",20,20,2016-01-29
+"PEMEX","No","Si",49,51,2016-01-19
+"PGR","Si","Si",44,46,2016-02-04
+"Presidencia","Si","Si",38,1671,2016-01-14
+"Procuraduría Agraria","Si","Si",4,4,2016-01-04
+"PRODECON","Si","Si",42,42,2015-12-03
+"PROFEDET","Si","Si",12,12,2015-12-17
+"Procuraduría Federal de Protección al Ambiente","Si","Si",14,17,2016-01-23
+"ProMéxico","No","No",26,30,2016-01-28
+"PRONABIVE","Si","Si",2,2,2015-10-27
+"PROSPERA","Si","Si",6,92,2015-12-22
+"RAN","Si","Si",12,136,2016-01-27
+"SAE","Si","Si",7,7,2015-10-27
+"SAGARPA","Si","Si",58,232,2016-01-29
+"SALUD","No","No",14,58,2016-01-12
+"SAT","Si","Si",14,62,2015-12-03
+"SCT","Si","Si",10,68,2016-02-02
+"SE","No","No",37,173,2016-01-29
+"SECTUR","No","No",18,19,2015-12-15
+"SEDATU","Si","Si",5,30,2015-11-09
+"SEDENA","Si","No",18,37,2016-01-15
+"SEDESOL","No","Si",138,804,2015-11-19
+"SEGOB","Si","Si",89,104,2015-12-11
+"Seguro Popular","Si","Si",5,5,2015-12-17
+"SEMARNAT","Si","Si",13,120,2016-01-15
+"SENASICA","Si","Si",54,54,2016-01-29
+"Secretaría de Energía","Si","Si",110,154,2015-12-18
+"SEP","Si","Si",13,125,2015-12-11
+"Servicio Geológico Mexicano","Si","Si",7,45,2015-12-16
+"SESNSP","No","Si",15,15,2015-12-10
+"SFP","Si","No",30,30,2015-12-11
+"SHCP","Si","Si",10,59,2015-11-26
+"SHF","No","No",1,1,2015-10-27
+"SNDIF","Si","Si",6,16,2016-01-29
+"SNICS","No","No",2,3,2015-10-27
+"Sistema Público de Radiofusión del Estado Mexicano","Si","Si",12,12,2015-12-01
+"SRE","Si","Si",40,40,2016-02-03
+"STPS","No","No",23,35,2016-02-03
+"Telecomm","Si","Si",7,7,2015-10-29
+"AGN","Si","Si",0,0,NA
+"CENSIDA","Si","Si",0,0,NA
+"PF","Si","Si",0,0,NA

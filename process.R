@@ -48,8 +48,8 @@ entities            <- data.frame(apply(
     mat[, c(1, 2)],
     2,
     unique))
-entities$tiene_inv  <- entities$slug %in% invent$inst_slut
-entities$tiene_plan <- entities$slug %in% plans$inst_slut
+entities$tiene_inv  <- entities$slug %in% invent$inst_slug
+entities$tiene_plan <- entities$slug %in% plans$inst_slug
 ent_rec             <- merge(entities, rec, by = "slug")
 ent_rec_conj        <- merge(ent_rec, conj.f, by = "slug")
 names(ent_rec_conj) <- c("slug",
