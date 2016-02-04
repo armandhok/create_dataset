@@ -55,7 +55,7 @@ ent_rec_conj        <- merge(ent_rec, conj.f, by = "slug")
 names(ent_rec_conj) <- c("slug",
                         "dep",
                         "tiene_inventario",
-                        "tiene_plan",
+n                        "tiene_plan",
                         "recursos",
                         "conjuntos")
 ent_rec_conj <- merge(ent_rec_conj, dates, by = "slug")
@@ -109,4 +109,23 @@ write.csv(final_data,
           "dataset_presidencia.csv",
           row.names = FALSE)
 
+###################################
+## Add data
+###################################
+data_summ <- data.frame("Concepto" = c(
+                           "Recursos de datos publicados",
+                           "Conjuntos de datos publicados",
+                           "Dependencias publicando"
+                       ), "Total" = c(
+                              nrow(mat),
+                              sum(ent_rec_conj$conjuntos),
+                              nrow(final_data)
+                          ))
+write.csv(data_summ,
+          "datosgob_resum.csv",
+          row.names = FALSE)
+
+###################################
+## Eraser
+###################################
 system("rm dependencies.txt MAT.csv plans.csv inventarios.csv filter_data.csv")
