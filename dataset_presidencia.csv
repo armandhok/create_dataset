@@ -8,11 +8,10 @@
 "API-GYM","No","No",3,3,2015-10-27
 "API-LZC","Si","Si",6,7,2015-10-27
 "API-MZT","Si","Si",7,7,2015-10-31
-"API-PCH","Si","Si",2,2,2015-12-18
+"API-PCH","Si","Si",6,6,2016-02-15
 "API-SCX","Si","Si",7,7,2016-02-05
-"API-T","No","No",4,4,2016-01-08
 "API-TAM","Si","Si",14,14,2015-10-27
-"API-TUX","No","No",2,2,2015-12-19
+"API-TUX","No","No",1,1,2015-12-19
 "API-VER","Si","Si",2,2,2015-10-30
 "API-VSA","Si","Si",7,7,2015-10-27
 "API-ZLO","Si","No",14,14,2016-01-01
@@ -37,7 +36,7 @@
 "CENAPRED","No","No",14,14,2015-10-27
 "CENATRA","Si","Si",4,4,2016-01-28
 "Centro de Investigaciones y Estudios Superiores en Antropología Social","Si","Si",2,2,2015-10-27
-"CFE","Si","Si",10,10,2016-01-19
+"CFE","Si","Si",9,9,2016-01-19
 "CIAD","Si","Si",5,23,2015-11-27
 "CIATEC","Si","Si",7,7,2015-12-15
 "CIATEJ","Si","Si",2,2,2015-11-05
@@ -49,7 +48,7 @@
 "CIMAV","Si","Si",4,4,2015-11-28
 "CINETECA NACIONAL","Si","Si",9,9,2015-10-27
 "CIO","Si","Si",2,2,2015-10-28
-"Correos de México","Si","Si",30,61,2015-11-26
+"Correos de México","Si","Si",34,68,2016-02-17
 "CMM","Si","Si",14,14,2016-01-18
 "CNSF","Si","Si",80,80,2015-12-03
 "COFAA","Si","Si",2,2,2015-10-28
@@ -70,7 +69,7 @@
 "CONAPO","Si","Si",9,60,2016-01-13
 "CONAPRED","Si","Si",5,5,2015-12-09
 "CONASAMI","Si","No",3,4,2016-01-27
-"CONAVI","Si","Si",6,7,2016-02-05
+"CONAVI","Si","Si",6,7,2016-02-17
 "CONAZA","Si","Si",2,2,2016-01-11
 "CONDUSEF","Si","Si",4,4,2016-01-29
 "CONEVAL","Si","Si",23,96,2016-02-03
@@ -91,13 +90,13 @@
 "FIFONAFE","No","No",4,4,2015-10-28
 "FIRA","Si","Si",5,5,2016-01-27
 "FIRCO","Si","Si",2,2,2015-10-28
-"FND","Si","Si",8,11,2016-02-10
+"FND","Si","Si",8,11,2016-02-12
 "FOCIR","No","No",4,4,2015-10-28
 "Instituto del Fondo Nacional para el Consumo de los Trabajadores","No","No",4,4,2016-02-10
 "FONART","Si","Si",4,14,2015-11-20
 "Fondo de Cultura Económica","Si","Si",2,2,2015-10-01
 "FONHAPO","Si","Si",14,14,2016-01-16
-"HGGEA","Si","Si",10,10,2016-02-08
+"HGGEA","Si","Si",12,12,2016-02-11
 "HIMFG","Si","Si",7,7,2015-11-26
 "HRAEB","Si","Si",25,25,2015-12-16
 "HRAEO","Si","Si",2,2,2015-12-24
@@ -119,7 +118,7 @@
 "INC","No","No",1,1,2015-10-26
 "INCAN","Si","Si",13,13,2016-01-15
 "INEA","Si","Si",19,19,2016-01-30
-"INECC","Si","Si",9,1042,2015-12-29
+"INECC","Si","Si",6,1039,2016-02-11
 "INECOL","Si","Si",9,15,2015-11-12
 "INEGI","No","No",75,1687,2015-10-24
 "INFOTEC","No","No",11,21,2016-01-11
@@ -133,11 +132,11 @@
 "ISSFAM","Si","Si",10,10,2015-12-23
 "ISSSTE","Si","Si",19,19,2015-12-09
 "LOTENAL","Si","Si",9,9,2015-12-22
-"NAFIN","Si","Si",5,10,2016-01-25
+"NAFIN","Si","Si",5,18,2016-02-16
 "Notimex","No","No",20,20,2016-01-29
 "PEMEX","No","Si",49,51,2016-01-19
-"PGR","Si","Si",44,46,2016-02-04
-"Presidencia","Si","Si",38,1671,2016-01-14
+"PGR","Si","Si",43,45,2016-02-04
+"Presidencia","No","Si",40,1673,2016-02-12
 "Procuraduría Agraria","Si","Si",4,4,2016-01-04
 "PRODECON","Si","Si",42,42,2015-12-03
 "PROFEDET","Si","Si",12,12,2015-12-17
@@ -149,18 +148,18 @@
 "SAE","Si","No",9,9,2016-02-08
 "SAGARPA","Si","Si",21,123,2016-02-05
 "SALUD","No","No",40,84,2016-02-10
-"SAT","Si","Si",14,62,2015-12-03
+"SAT","Si","Si",13,59,2015-12-03
 "SCT","Si","Si",10,68,2016-02-02
-"SE","No","No",37,173,2016-01-29
+"SE","No","No",39,177,2016-02-15
 "SECTUR","No","No",18,19,2015-12-15
 "SEDATU","Si","Si",5,30,2015-11-09
-"SEDENA","Si","No",18,37,2016-02-07
+"SEDENA","No","No",18,37,2016-02-07
 "SEDESOL","No","Si",138,804,2015-11-19
 "SEGOB","Si","Si",89,104,2015-12-11
 "Seguro Popular","Si","Si",5,5,2015-12-17
 "SEMARNAT","Si","Si",13,120,2016-01-15
 "SENASICA","Si","Si",54,54,2016-01-29
-"Secretaría de Energía","Si","Si",110,154,2015-12-18
+"Secretaría de Energía","No","Si",110,154,2015-12-18
 "SEP","Si","Si",13,125,2015-12-11
 "Servicio Geológico Mexicano","Si","Si",7,45,2015-12-16
 "SESNSP","No","Si",15,15,2015-12-10
@@ -170,7 +169,7 @@
 "SNDIF","Si","Si",6,16,2016-01-29
 "SNICS","No","No",2,3,2015-10-27
 "Sistema Público de Radiofusión del Estado Mexicano","Si","Si",12,12,2015-12-01
-"SRE","No","No",42,42,2016-02-06
+"SRE","Si","Si",43,43,2016-02-13
 "STPS","No","No",30,42,2016-02-10
 "Telecomm","Si","Si",7,7,2015-10-29
 "AGN","Si","Si",0,0,NA
