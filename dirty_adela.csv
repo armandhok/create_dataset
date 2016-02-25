@@ -1,30 +1,31 @@
 "slug","dep","tiene_inventario","tiene_plan","recursos","conjuntos","fecha"
-"agroasemex","AGROASEMEX","Si","Si",14,14,2016-01-29
+"agroasemex","AGROASEMEX","Si","Si",13,13,2016-01-29
 "aicm","AICM","Si","Si",2,2,2015-10-27
 "api-atm","API-ATM","No","No",17,17,2015-11-09
 "api-coa","API-COA","Si","Si",16,11,2015-11-27
 "api-db","API-DB","Si","Si",14,6,2015-10-28
-"api-ese","API-ESE","No","Si",6,3,2016-01-14
+"api-ese","API-ESE","No","Si",10,3,2016-02-18
 "api-gym","API-GYM","No","No",3,3,2015-10-27
 "api-lzc","API-LZC","Si","Si",7,6,2015-10-27
 "api-mzt","API-MZT","Si","Si",7,7,2015-10-31
-"api-pch","API-PCH","Si","Si",6,6,2016-02-15
+"api-pch","API-PCH","Si","Si",2,2,2016-02-15
 "api-scx","API-SCX","Si","Si",7,7,2016-02-05
+"api-t","API-T","No","No",4,4,2016-02-23
 "api-tam","API-TAM","Si","Si",14,14,2015-10-27
-"api-tux","API-TUX","No","No",1,1,2015-12-19
+"api-tux","API-TUX","Si","No",3,3,2016-02-25
 "api-ver","API-VER","Si","Si",2,2,2015-10-30
 "api-vsa","API-VSA","Si","Si",7,7,2015-10-27
 "api-zlo","API-ZLO","Si","No",14,14,2016-01-01
-"asa","Aeropuertos y Servicios Auxiliares","Si","Si",6,6,2016-01-19
+"asa","Aeropuertos y Servicios Auxiliares","Si","Si",6,6,2016-02-18
 "ase-chihuahua","ASE Chihuahua","Si","Si",7,7,2015-11-24
 "ayuntamiento-de-ciudad-juarez","Ayuntamiento de Ciudad Juárez","No","No",7,7,2015-10-23
 "ayuntamiento-de-minatitlan","Ayuntamiento de Minatitlán","Si","Si",16,16,2015-11-07
 "ayuntamiento-de-puebla","Ayuntamiento de Puebla","Si","Si",83,83,2015-11-18
-"ayuntamiento-de-reynosa","Ayuntamiento de Reynosa","Si","No",4,4,2016-01-15
+"ayuntamiento-de-reynosa","Ayuntamiento de Reynosa","Si","No",3,3,2016-01-15
 "ayuntamiento-de-san-luis-potosi","Ayuntamiento de San Luis Potosí","No","No",6,3,2015-10-01
 "ayuntamiento-de-san-pedro-garza-garcia","Ayuntamiento de San Pedro Garza García","No","No",14,2,2015-10-01
 "ayuntamiento-de-torreon","Ayuntamiento de Torreón","Si","Si",11,11,2015-12-02
-"ayuntamiento-de-veracruz","Ayuntamiento de Veracruz","Si","Si",7,6,2015-12-15
+"ayuntamiento-de-veracruz","Ayuntamiento de Veracruz","Si","Si",17,11,2016-02-17
 "ayuntamiento-de-xalapa","Ayuntamiento de Xalapa","Si","Si",70,16,2016-01-28
 "ayuntamiento-de-zapopan","Ayuntamiento de Zapopan","No","No",20,6,2015-10-01
 "bancomext","BANCOMEXT","Si","Si",6,3,2015-10-28
@@ -48,7 +49,7 @@
 "cimav","CIMAV","Si","Si",4,4,2015-11-28
 "cineteca-nacional","CINETECA NACIONAL","Si","Si",9,9,2015-10-27
 "cio","CIO","Si","Si",2,2,2015-10-28
-"cm","Correos de México","Si","Si",68,34,2016-02-17
+"cm","Correos de México","Si","Si",66,32,2016-02-17
 "cmm","CMM","Si","Si",14,14,2016-01-18
 "cnsf","CNSF","Si","Si",80,80,2015-12-03
 "cofaa","COFAA","Si","Si",2,2,2015-10-28
@@ -58,18 +59,18 @@
 "colsan","COLSAN","Si","Si",7,5,2015-10-27
 "conabio","CONABIO","No","Si",21,8,2016-01-21
 "conacyt","CONACYT","No","No",11,11,2015-10-28
-"conadesuca","CONADESUCA","Si","Si",9,5,2016-01-21
+"conadesuca","CONADESUCA","Si","Si",10,5,2016-02-17
 "conafor","CONAFOR","Si","Si",15,9,2015-12-17
 "conagua","CONAGUA","Si","Si",67,55,2016-02-03
 "conalep","CONALEP","No","No",3,3,2016-01-15
 "conaliteg","CONALITEG","Si","No",8,8,2015-12-11
 "conampros","CONAMPROS","Si","Si",11,11,2015-12-01
 "conanp","CONANP","Si","Si",143,25,2015-11-23
-"conapesca","CONAPESCA","No","Si",17,12,2015-11-26
+"conapesca","CONAPESCA","No","Si",19,13,2016-02-23
 "conapo","CONAPO","Si","Si",60,9,2016-01-13
 "conapred","CONAPRED","Si","Si",5,5,2015-12-09
 "conasami","CONASAMI","Si","No",4,3,2016-01-27
-"conavi","CONAVI","Si","Si",7,6,2016-02-17
+"conavi","CONAVI","Si","Si",7,6,2016-02-23
 "conaza","CONAZA","Si","Si",2,2,2016-01-11
 "condusef","CONDUSEF","Si","Si",4,4,2016-01-29
 "coneval","CONEVAL","Si","Si",96,23,2016-02-03
@@ -87,6 +88,7 @@
 "estado-de-morelos","Estado de Morelos","No","No",3,2,2015-10-01
 "estado-de-puebla","Estado de Puebla","No","No",12,12,2015-10-01
 "estado-de-veracruz","Estado de Veracruz","Si","Si",58,37,2015-11-27
+"fidena","FIDENA","No","No",6,6,2016-02-25
 "fifonafe","FIFONAFE","No","No",4,4,2015-10-28
 "fira","FIRA","Si","Si",5,5,2016-01-27
 "firco","FIRCO","Si","Si",2,2,2015-10-28
@@ -99,16 +101,16 @@
 "hggea","HGGEA","Si","Si",12,12,2016-02-11
 "himfg","HIMFG","Si","Si",7,7,2015-11-26
 "hraeb","HRAEB","Si","Si",25,25,2015-12-16
-"hraeo","HRAEO","Si","Si",2,2,2015-12-24
+"hraeo","HRAEO","Si","No",3,3,2016-02-24
 "iepsa","IEPSA","No","Si",13,6,2016-01-14
 "ift","ift","No","No",3,1,2015-10-01
 "iie","IIE","Si","Si",6,6,2015-11-27
 "im","Instituto Mora","Si","Si",20,20,2015-12-15
 "imjuve","IMJUVE","Si","No",13,13,2016-01-18
-"imp","IMP","No","No",4,4,2015-10-26
+"imp","IMP","No","No",3,3,2015-10-26
 "imss","IMSS","Si","Si",303,10,2016-01-14
 "imt","imt","Si","Si",10,10,2016-01-27
-"imta","IMTA","No","No",1,1,2015-12-16
+"imta","IMTA","No","No",2,1,2016-02-25
 "inacipe","INACIPE","Si","Si",3,3,2016-01-05
 "inah","INAH","Si","Si",4,3,2015-10-28
 "inali","INALI","Si","Si",10,4,2015-12-08
@@ -118,22 +120,22 @@
 "inc","INC","No","No",1,1,2015-10-26
 "incan","INCAN","Si","Si",13,13,2016-01-15
 "inea","INEA","Si","Si",19,19,2016-01-30
-"inecc","INECC","Si","Si",1039,6,2016-02-11
+"inecc","INECC","Si","Si",1039,6,2016-02-23
 "inecol","INECOL","Si","Si",15,9,2015-11-12
 "inegi","INEGI","No","No",1687,75,2015-10-24
 "infotec","INFOTEC","No","No",21,11,2016-01-11
 "inifap","INIFAP","Si","Si",2,2,2016-01-12
-"inifed","INIFED","Si","Si",3,3,2015-11-09
+"inifed","INIFED","Si","Si",4,4,2016-02-23
 "inmujeres","INMUJERES","No","No",7,1,2015-09-28
 "insp","INSP","Si","Si",110,12,2015-12-17
 "ipab","IPAB","Si","Si",50,14,2015-12-18
-"ipicyt","IPICYT","Si","Si",5,5,2016-01-15
+"ipicyt","IPICYT","Si","Si",8,8,2016-02-18
 "ipn","IPN","Si","Si",17,17,2015-11-03
 "issfam","ISSFAM","Si","Si",10,10,2015-12-23
 "issste","ISSSTE","Si","Si",19,19,2015-12-09
 "lotenal","LOTENAL","Si","Si",9,9,2015-12-22
 "nafin","NAFIN","Si","Si",18,5,2016-02-16
-"notimex","Notimex","No","No",20,20,2016-01-29
+"notimex","Notimex","No","No",20,20,2016-02-22
 "pemex","PEMEX","No","Si",51,49,2016-01-19
 "pgr","PGR","Si","Si",45,43,2016-02-04
 "presidencia","Presidencia","No","Si",1673,40,2016-02-12
@@ -145,26 +147,26 @@
 "pronabive","PRONABIVE","Si","Si",2,2,2015-10-27
 "prospera","PROSPERA","Si","Si",92,6,2015-12-22
 "ran","RAN","Si","Si",136,12,2016-01-27
-"sae","SAE","Si","No",9,9,2016-02-08
+"sae","SAE","Si","No",9,9,2016-02-25
 "sagarpa","SAGARPA","Si","Si",123,21,2016-02-05
 "salud","SALUD","No","No",84,40,2016-02-10
-"sat","SAT","Si","Si",59,13,2015-12-03
+"sat","SAT","Si","Si",62,14,2016-02-23
 "sct","SCT","Si","Si",68,10,2016-02-02
-"se","SE","No","No",177,39,2016-02-15
-"sectur","SECTUR","No","No",19,18,2015-12-15
+"se","SE","No","No",186,40,2016-02-19
+"sectur","SECTUR","No","No",37,36,2016-02-24
 "sedatu","SEDATU","Si","Si",30,5,2015-11-09
-"sedena","SEDENA","No","No",37,18,2016-02-07
+"sedena","SEDENA","No","No",36,17,2016-02-25
 "sedesol","SEDESOL","No","Si",804,138,2015-11-19
 "segob","SEGOB","Si","Si",104,89,2015-12-11
 "seguro-popular","Seguro Popular","Si","Si",5,5,2015-12-17
-"semarnat","SEMARNAT","Si","Si",120,13,2016-01-15
+"semarnat","SEMARNAT","No","Si",120,13,2016-01-15
 "senasica","SENASICA","Si","Si",54,54,2016-01-29
 "sener","Secretaría de Energía","No","Si",154,110,2015-12-18
 "sep","SEP","Si","Si",125,13,2015-12-11
 "servicio-geologico-mexicano","Servicio Geológico Mexicano","Si","Si",45,7,2015-12-16
 "sesnsp","SESNSP","No","Si",15,15,2015-12-10
 "sfp","SFP","Si","No",30,30,2015-12-11
-"shcp","SHCP","Si","Si",59,10,2015-11-26
+"shcp","SHCP","Si","Si",59,10,2016-02-24
 "shf","SHF","No","No",1,1,2015-10-27
 "sndif","SNDIF","Si","Si",16,6,2016-01-29
 "snics","SNICS","No","No",3,2,2015-10-27
