@@ -129,4 +129,4 @@ write.csv(data_summ,
 ###################################
 ## Eraser
 ###################################
-system("rm dependencies.txt MAT.csv plans.csv inventarios.csv")
+system("rm dependencies.txt MAT.csv plans.csv inventarios.csv filter_data.csv")

@@ -63,7 +63,7 @@
 "conafor","CONAFOR","Si","Si",15,9,2015-12-17
 "conagua","CONAGUA","Si","Si",67,55,2016-02-03
 "conalep","CONALEP","No","No",3,3,2016-01-15
-"conaliteg","CONALITEG","Si","No",8,8,2015-12-11
+"conaliteg","CONALITEG","Si","No",9,9,2016-02-25
 "conampros","CONAMPROS","Si","Si",11,11,2015-12-01
 "conanp","CONANP","Si","Si",143,25,2015-11-23
 "conapesca","CONAPESCA","No","Si",19,13,2016-02-23
@@ -80,7 +80,7 @@
 "corett","CORETT","No","No",6,6,2016-01-14
 "crae","CRAE","Si","Si",11,9,2015-12-01
 "cre","CRE","Si","Si",16,15,2016-02-02
-"csaegro","CSAEGRO","Si","Si",2,2,2015-12-22
+"csaegro","CSAEGRO","Si","Si",3,3,2016-02-26
 "diconsa","DICONSA","Si","Si",33,33,2015-12-14
 "ech","ECH","Si","Si",6,6,2016-01-13
 "elccc","ELCCC","Si","Si",3,3,2015-10-29
@@ -137,7 +137,7 @@
 "nafin","NAFIN","Si","Si",18,5,2016-02-16
 "notimex","Notimex","No","No",20,20,2016-02-22
 "pemex","PEMEX","No","Si",51,49,2016-01-19
-"pgr","PGR","Si","Si",45,43,2016-02-04
+"pgr","PGR","Si","Si",44,42,2016-02-04
 "presidencia","Presidencia","No","Si",1673,40,2016-02-12
 "procuraduria-agraria","Procuraduría Agraria","Si","Si",4,4,2016-01-04
 "prodecon","PRODECON","Si","Si",42,42,2015-12-03
@@ -157,14 +157,14 @@
 "sedatu","SEDATU","Si","Si",30,5,2015-11-09
 "sedena","SEDENA","No","No",36,17,2016-02-25
 "sedesol","SEDESOL","No","Si",804,138,2015-11-19
-"segob","SEGOB","Si","Si",104,89,2015-12-11
+"segob","SEGOB","Si","Si",108,93,2016-02-26
 "seguro-popular","Seguro Popular","Si","Si",5,5,2015-12-17
 "semarnat","SEMARNAT","No","Si",120,13,2016-01-15
-"senasica","SENASICA","Si","Si",54,54,2016-01-29
+"senasica","SENASICA","No","No",54,54,2016-01-29
 "sener","Secretaría de Energía","No","Si",154,110,2015-12-18
 "sep","SEP","Si","Si",125,13,2015-12-11
 "servicio-geologico-mexicano","Servicio Geológico Mexicano","Si","Si",45,7,2015-12-16
-"sesnsp","SESNSP","No","Si",15,15,2015-12-10
+"sesnsp","SESNSP","No","Si",13,13,2015-12-10
 "sfp","SFP","Si","No",30,30,2015-12-11
 "shcp","SHCP","Si","Si",59,10,2016-02-24
 "shf","SHF","No","No",1,1,2015-10-27
