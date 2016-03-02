@@ -31,7 +31,7 @@
 "bancomext","BANCOMEXT","Si","Si",6,3,2015-10-28
 "banjercito","BANJERCITO","No","No",2,2,2015-10-24
 "birmex","BIRMEX","Si","Si",6,6,2015-10-27
-"canal-11","Canal 11","Si","Si",2,2,2015-10-30
+"canal-11","Canal 11","Si","Si",6,6,2016-02-29
 "capufe","CAPUFE","No","No",5,5,2015-11-23
 "cdi","CDI","Si","Si",15,9,2015-12-02
 "cenapred","CENAPRED","No","No",14,14,2015-10-27
@@ -41,7 +41,7 @@
 "ciad","CIAD","Si","Si",23,5,2015-11-27
 "ciatec","CIATEC","Si","Si",7,7,2015-12-15
 "ciatej","CIATEJ","Si","Si",2,2,2015-11-05
-"cibnor","CIBNOR","No","No",12,8,2016-02-03
+"cibnor","CIBNOR","Si","Si",19,15,2016-03-01
 "cicese","CICESE","Si","Si",7,7,2015-10-28
 "cicy","CICY","Si","Si",2,2,2015-11-26
 "cideteq","CIDETEQ","Si","Si",12,12,2015-11-25
@@ -51,6 +51,7 @@
 "cio","CIO","Si","Si",2,2,2015-10-28
 "cm","Correos de México","Si","Si",66,32,2016-02-17
 "cmm","CMM","Si","Si",14,14,2016-01-18
+"cnegsr","CNEGSR","Si","Si",2,2,2016-03-01
 "cnsf","CNSF","Si","Si",80,80,2015-12-03
 "cofaa","COFAA","Si","Si",2,2,2015-10-28
 "cofepris","COFEPRIS","Si","Si",7,7,2016-01-18
@@ -61,9 +62,9 @@
 "conacyt","CONACYT","No","No",11,11,2015-10-28
 "conadesuca","CONADESUCA","Si","Si",10,5,2016-02-17
 "conafor","CONAFOR","Si","Si",15,9,2015-12-17
-"conagua","CONAGUA","Si","Si",67,55,2016-02-03
+"conagua","CONAGUA","Si","Si",69,57,2016-02-29
 "conalep","CONALEP","No","No",3,3,2016-01-15
-"conaliteg","CONALITEG","Si","No",9,9,2016-02-25
+"conaliteg","CONALITEG","Si","No",8,8,2016-02-25
 "conampros","CONAMPROS","Si","Si",11,11,2015-12-01
 "conanp","CONANP","Si","Si",143,25,2015-11-23
 "conapesca","CONAPESCA","No","Si",19,13,2016-02-23
@@ -74,7 +75,7 @@
 "conaza","CONAZA","Si","Si",2,2,2016-01-11
 "condusef","CONDUSEF","Si","Si",4,4,2016-01-29
 "coneval","CONEVAL","Si","Si",96,23,2016-02-03
-"conocer","CONOCER","Si","Si",2,2,2015-10-27
+"conocer","CONOCER","Si","Si",6,6,2016-02-29
 "consar","CONSAR","Si","No",2,2,2015-10-28
 "conuee","CONUEE","No","No",2,2,2015-11-26
 "corett","CORETT","No","No",6,6,2016-01-14
@@ -98,6 +99,7 @@
 "fonart","FONART","Si","Si",14,4,2015-11-20
 "fondo-de-cultura-economica","Fondo de Cultura Económica","Si","Si",2,2,2015-10-01
 "fonhapo","FONHAPO","Si","Si",14,14,2016-01-16
+"gacm","GACM","Si","Si",18,18,2016-03-02
 "hggea","HGGEA","Si","Si",12,12,2016-02-11
 "himfg","HIMFG","Si","Si",7,7,2015-11-26
 "hraeb","HRAEB","Si","Si",25,25,2015-12-16
@@ -110,7 +112,7 @@
 "imp","IMP","No","No",3,3,2015-10-26
 "imss","IMSS","Si","Si",303,10,2016-01-14
 "imt","imt","Si","Si",10,10,2016-01-27
-"imta","IMTA","No","No",2,1,2016-02-25
+"imta","IMTA","No","No",3,2,2016-03-01
 "inacipe","INACIPE","Si","Si",3,3,2016-01-05
 "inah","INAH","Si","Si",4,3,2015-10-28
 "inali","INALI","Si","Si",10,4,2015-12-08
@@ -137,7 +139,7 @@
 "nafin","NAFIN","Si","Si",18,5,2016-02-16
 "notimex","Notimex","No","No",20,20,2016-02-22
 "pemex","PEMEX","No","Si",51,49,2016-01-19
-"pgr","PGR","Si","Si",44,42,2016-02-04
+"pgr","PGR","No","No",48,46,2016-02-27
 "presidencia","Presidencia","No","Si",1673,40,2016-02-12
 "procuraduria-agraria","Procuraduría Agraria","Si","Si",4,4,2016-01-04
 "prodecon","PRODECON","Si","Si",42,42,2015-12-03
@@ -156,21 +158,21 @@
 "sectur","SECTUR","No","No",37,36,2016-02-24
 "sedatu","SEDATU","Si","Si",30,5,2015-11-09
 "sedena","SEDENA","No","No",36,17,2016-02-25
-"sedesol","SEDESOL","No","Si",804,138,2015-11-19
+"sedesol","SEDESOL","No","No",804,138,2015-11-19
 "segob","SEGOB","Si","Si",108,93,2016-02-26
 "seguro-popular","Seguro Popular","Si","Si",5,5,2015-12-17
 "semarnat","SEMARNAT","No","Si",120,13,2016-01-15
-"senasica","SENASICA","No","No",54,54,2016-01-29
-"sener","Secretaría de Energía","No","Si",154,110,2015-12-18
+"senasica","SENASICA","Si","Si",61,61,2016-02-29
+"sener","Secretaría de Energía","Si","Si",232,131,2016-02-29
 "sep","SEP","Si","Si",125,13,2015-12-11
 "servicio-geologico-mexicano","Servicio Geológico Mexicano","Si","Si",45,7,2015-12-16
 "sesnsp","SESNSP","No","Si",13,13,2015-12-10
 "sfp","SFP","Si","No",30,30,2015-12-11
-"shcp","SHCP","Si","Si",59,10,2016-02-24
+"shcp","SHCP","No","Si",60,10,2016-02-29
 "shf","SHF","No","No",1,1,2015-10-27
 "sndif","SNDIF","Si","Si",16,6,2016-01-29
 "snics","SNICS","No","No",3,2,2015-10-27
 "spr","Sistema Público de Radiofusión del Estado Mexicano","Si","Si",12,12,2015-12-01
-"sre","SRE","Si","Si",43,43,2016-02-13
+"sre","SRE","Si","Si",42,42,2016-02-13
 "stps","STPS","No","No",42,30,2016-02-10
 "telecomm","Telecomm","Si","Si",7,7,2015-10-29
