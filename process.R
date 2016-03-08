@@ -12,7 +12,8 @@ suppressPackageStartupMessages(library(stringr))
 suppressPackageStartupMessages(library(plyr))
 suppressPackageStartupMessages(library(dplyr))
 suppressPackageStartupMessages(library(data.table))
-
+suppressPackageStartupMessages(library(RCurl))
+suppressPackageStartupMessages(library(JSONIO))
 ###################################
 ## Read data
 ###################################
@@ -29,14 +30,15 @@ plans  <- read.csv("plans.csv",
 all    <- mat
 mat    <- dplyr::filter(mat, !is.na(slug))
 mat.dc <- data.table(mat)
-
+mat.conj <- data.table(all)
 ###################################
 ## N rec, conj
 ###################################
 rec    <- mat.dc[, .N, by = "slug"]
 conj   <- mat.dc[, plyr::count(conj), by = "slug"]
 conj.f <- conj[, .N, by = "slug"]
-
+all_conj  <- mat.conj[, plyr::count(conj), by = "slug"]
+all_conj.f <- all_conj[, .N, by = "slug"]
 ###################################
 ## fecha
 ###################################
@@ -115,11 +117,13 @@ write.csv(final_data,
 ###################################
 data_summ <- data.frame("Concepto" = c(
                            "Recursos de datos publicados",
-                           "Conjuntos de datos publicados",
+                           "Conjuntos de datos de dependencias publicados",
+                           "Conjuntos de datos total publicados",
                            "Dependencias publicando"
                        ), "Total" = c(
                               nrow(all),
                               sum(ent_rec_conj$conjuntos),
+                              length(fromJSON(getURL("http://catalogo.datos.gob.mx/api/3/action/package_list"))$result),
                               nrow(final_data) - 3
                           ))
 write.csv(data_summ,
