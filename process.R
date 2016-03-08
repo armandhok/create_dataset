@@ -13,7 +13,7 @@ suppressPackageStartupMessages(library(plyr))
 suppressPackageStartupMessages(library(dplyr))
 suppressPackageStartupMessages(library(data.table))
 suppressPackageStartupMessages(library(RCurl))
-suppressPackageStartupMessages(library(JSONIO))
+suppressPackageStartupMessages(library(RJSONIO))
 ###################################
 ## Read data
 ###################################
@@ -123,7 +123,7 @@ data_summ <- data.frame("Concepto" = c(
                        ), "Total" = c(
                               nrow(all),
                               sum(ent_rec_conj$conjuntos),
-                              length(fromJSON(getURL("http://catalogo.datos.gob.mx/api/3/action/package_list"))$result),
+                              RJSONIO::fromJSON(getURL("http://catalogo.datos.gob.mx/api/3/action/package_search?q=&rows=10&sort=dcat_modified+desc&start=0"))$result[[1]],
                               nrow(final_data) - 3
                           ))
 write.csv(data_summ,
