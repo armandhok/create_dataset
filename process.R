@@ -120,7 +120,7 @@ data_summ <- data.frame("Concepto" = c(
                        ), "Total" = c(
                               nrow(all),
                               sum(ent_rec_conj$conjuntos),
-                              nrow(final_data)
+                              nrow(final_data) - 3
                           ))
 write.csv(data_summ,
           "datosgob_resum.csv",
