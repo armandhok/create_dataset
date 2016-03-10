@@ -14,6 +14,7 @@ suppressPackageStartupMessages(library(dplyr))
 suppressPackageStartupMessages(library(data.table))
 suppressPackageStartupMessages(library(RCurl))
 suppressPackageStartupMessages(library(RJSONIO))
+
 ###################################
 ## Read data
 ###################################
@@ -118,6 +119,8 @@ write.csv(final_data,
 ###################################
 ## Add data
 ###################################
+conj.dep.hack <- RJSONIO::fromJSON(getURL("http://catalogo.datos.gob.mx/api/3/action/package_search?q=&rows=10&sort=dcat_modified+desc&start=0"))$result[[1]]
+conj.non.dep  <- conj.dep.hack - length(unique(all$conj[is.na(all$slug)]))
 data_summ <- data.frame("Concepto" = c(
                            "Recursos de datos publicados",
                            "Conjuntos de datos de dependencias publicados",
@@ -127,8 +130,8 @@ data_summ <- data.frame("Concepto" = c(
                            "Dependencias con Plan"
                        ), "Total" = c(
                               nrow(all),
-                              sum(ent_rec_conj$conjuntos),
-                              RJSONIO::fromJSON(getURL("http://catalogo.datos.gob.mx/api/3/action/package_search?q=&rows=10&sort=dcat_modified+desc&start=0"))$result[[1]],
+                              conj.dep.hack,
+                              conj.non.dep,
                               nrow(final_data) - 3,
                               sum(ent_rec_conj$tiene_inventario == "Si"),
                               sum(ent_rec_conj$tiene_plan == "Si")
