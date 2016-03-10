@@ -19,18 +19,21 @@ suppressPackageStartupMessages(library(RJSONIO))
 ###################################
 mat    <- read.csv("MAT.csv",
                   stringsAsFactors = FALSE)
-invent <- read.csv("inventarios.csv",
-                  stringsAsFactors = FALSE)
-plans  <- read.csv("plans.csv",
-                  stringsAsFactors = FALSE)
+invent <- mat[str_detect(mat$conj,
+                        "(I|i)nventario (I|i)nstitucional de (D|d)atos .*"),
+               c(2, 6)]
+plans <- mat[str_detect(mat$conj,
+                       "(P|p)lan de (A|a)pertura (I|i)nstitucional .*"),
+             c(2, 6)]
 
 ###################################
 ## Filter data
 ###################################
-all    <- mat
-mat    <- dplyr::filter(mat, !is.na(slug))
-mat.dc <- data.table(mat)
+all      <- mat
+mat      <- dplyr::filter(mat, !is.na(slug))
+mat.dc   <- data.table(mat)
 mat.conj <- data.table(all)
+
 ###################################
 ## N rec, conj
 ###################################
@@ -39,6 +42,7 @@ conj   <- mat.dc[, plyr::count(conj), by = "slug"]
 conj.f <- conj[, .N, by = "slug"]
 all_conj  <- mat.conj[, plyr::count(conj), by = "slug"]
 all_conj.f <- all_conj[, .N, by = "slug"]
+
 ###################################
 ## fecha
 ###################################
@@ -51,8 +55,8 @@ entities            <- data.frame(apply(
     mat[, c(1, 2)],
     2,
     unique))
-entities$tiene_inv  <- entities$slug %in% invent$inst_slug
-entities$tiene_plan <- entities$slug %in% plans$inst_slug
+entities$tiene_inv  <- entities$slug %in% invent$slug
+entities$tiene_plan <- entities$slug %in% plans$slug
 ent_rec             <- merge(entities, rec, by = "slug")
 ent_rec_conj        <- merge(ent_rec, conj.f, by = "slug")
 names(ent_rec_conj) <- c("slug",
@@ -70,6 +74,7 @@ names(ent_rec_conj) <- c("slug",
                         "conjuntos",
                         "fecha")
 ent_rec_conj$fecha <- as.Date(ent_rec_conj$fecha)
+write.csv(ent_rec_conj, "dirty_adela.csv", row.names = FALSE)
 
 ###################################
 ## Refinements
@@ -84,8 +89,6 @@ ent_rec_conj$tiene_plan[
     ent_rec_conj$tiene_plan == TRUE] <- "Si"
 ent_rec_conj$tiene_plan[
     ent_rec_conj$tiene_plan == FALSE] <- "No"
-
-write.csv(ent_rec_conj, "dirty_adela.csv", row.names = FALSE)
 
 final_data <- ent_rec_conj
 final_data <- final_data[,-1]
@@ -119,12 +122,16 @@ data_summ <- data.frame("Concepto" = c(
                            "Recursos de datos publicados",
                            "Conjuntos de datos de dependencias publicados",
                            "Conjuntos de datos total publicados",
-                           "Dependencias publicando"
+                           "Dependencias publicando",
+                           "Dependencias con Inventario",
+                           "Dependencias con Plan"
                        ), "Total" = c(
                               nrow(all),
                               sum(ent_rec_conj$conjuntos),
                               RJSONIO::fromJSON(getURL("http://catalogo.datos.gob.mx/api/3/action/package_search?q=&rows=10&sort=dcat_modified+desc&start=0"))$result[[1]],
-                              nrow(final_data) - 3
+                              nrow(final_data) - 3,
+                              sum(ent_rec_conj$tiene_inventario == "Si"),
+                              sum(ent_rec_conj$tiene_plan == "Si")
                           ))
 write.csv(data_summ,
           "datosgob_resum.csv",
