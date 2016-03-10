@@ -70,10 +70,10 @@
 "conampros","CONAMPROS","Si","Si",11,11,2015-12-01
 "conanp","CONANP","Si","Si",143,25,2015-11-23
 "conapesca","CONAPESCA","No","Si",19,13,2016-02-23
-"conapo","CONAPO","Si","Si",60,9,2016-01-13
+"conapo","CONAPO","No","Si",60,9,2016-01-13
 "conapred","CONAPRED","Si","Si",5,5,2015-12-09
 "conasami","CONASAMI","Si","No",4,3,2016-01-27
-"conavi","CONAVI","Si","Si",7,6,2016-02-23
+"conavi","CONAVI","Si","Si",7,6,2016-03-09
 "conaza","CONAZA","Si","Si",2,2,2016-01-11
 "condusef","CONDUSEF","Si","Si",4,4,2016-01-29
 "coneval","CONEVAL","Si","Si",96,23,2016-02-03
@@ -164,7 +164,7 @@
 "sedesol","SEDESOL","No","No",1022,141,2016-03-04
 "segob","SEGOB","Si","Si",108,93,2016-02-26
 "seguro-popular","Seguro Popular","Si","Si",5,5,2015-12-17
-"semarnat","SEMARNAT","No","Si",120,13,2016-01-15
+"semarnat","SEMARNAT","Si","Si",164,14,2016-03-10
 "senasica","SENASICA","Si","Si",61,61,2016-02-29
 "sener","Secretaría de Energía","Si","Si",232,131,2016-02-29
 "sep","SEP","Si","Si",125,13,2015-12-11
